@@ -1,5 +1,5 @@
 
-<h1 align="center"> Cálculadora </h1>
+<h1 align="center"> Calculadora </h1>
 
 <h1 align="center"><a href="https://hellenpaula.github.io/projeto-calculadora/"> Veja o projeto aqui!</a>  </h1>
 
@@ -8,7 +8,7 @@
 
 ## 📌 Sobre 
 
-A **Cálculadora** foi um projeto desenvolvido para o estudo e a prática de HTML5, CSS3 e Javascript. Com a função de cálcular de forma aritmética os valores enviados a ela e retornar o resultado correspondente a operação, como o tradicional. 
+A **Calculadora** foi um projeto desenvolvido para o estudo e a prática de HTML5, CSS3 e Javascript. Com a função de calcular de forma aritmética os valores enviados a ela e retornar o resultado correspondente a operação, como o tradicional. 
 
 ## 📚 Aprendizados
 Conforme fui desenvolvendo esse projeto, pude explorar melhor meus conhecimentos nas linguagens "HTML5", "CSS3" e "Javascript" com ênfase em:
@@ -32,7 +32,7 @@ Display Grid, espaçamentos e alinhamentos.
 ## 🧠 Desafios e Melhorias Futuras
 ### ▶ DESAFIOS:
 - Aplicar um layout responsivo no projeto, sem poluir o código com diversas media queries.
-- Entender e aplicar a lógica das operações de forma correta para o funcionamento efiênte da cálculadora.
+- Entender e aplicar a lógica das operações de forma correta para o funcionamento efiênte da calculadora.
 
 ###  ▶ MELHORIAS:
 - Incluir botões para operações mais avançadas (raiz quadrada, potência, etc...).
